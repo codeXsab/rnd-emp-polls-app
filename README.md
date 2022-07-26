@@ -20,10 +20,14 @@ The project can be run with
 
 - `npm start`
 
+The project can tested with
+
+- `npm test`
+
 The project can be viewed in the browser at
 
 - [http://localhost:3000](http://localhost:3000)
 
-# Live Demo
+
 
 
